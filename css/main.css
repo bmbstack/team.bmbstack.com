@@ -3988,7 +3988,7 @@ i.flag:not(.icon) {
 i.flag:not(.icon):before {
   display: inline-block;
   content: '';
-  background: url(/assets/img/flags.png) -108px -1976px no-repeat;
+  background: url(/img/flags.png) -108px -1976px no-repeat;
   width: 16px;
   height: 11px;
 }
@@ -28594,14 +28594,14 @@ button.swiper-pagination-bullet {
 }
 @font-face {
   font-family: 'MaisonNeueWEB-Light';
-  src: url(/assets/fonts/MaisonNeueWEB-Light.woff) format("woff");
+  src: url(/fonts/MaisonNeueWEB-Light.woff) format("woff");
   font-style: normal;
   font-weight: 300;
 }
 
 @font-face {
   font-family: 'Icons';
-  src: url(/assets/fonts/icons.woff) format("woff");
+  src: url(/fonts/icons.woff) format("woff");
   font-style: normal;
   font-weight: 100;
 }
@@ -28610,7 +28610,7 @@ button.swiper-pagination-bullet {
   font-family: 'Lato';
   font-style: normal;
   font-weight: 100;
-  src: local("Lato Hairline"), local("Lato-Hairline"), url(/assets/fonts/Lato.woff) format("woff");
+  src: local("Lato Hairline"), local("Lato-Hairline"), url(/fonts/Lato.woff) format("woff");
 }
 
 body {
@@ -28795,7 +28795,7 @@ a:hover {
   width: 41px;
   height: 41px;
   text-indent: -9999px;
-  background: url(/assets/img/logo.png) no-repeat;
+  background: url(/img/logo.png) no-repeat;
   background-size: contain;
 }
 
@@ -28852,7 +28852,7 @@ a:hover {
 
 #banner {
   height: 100%;
-  background: #2a2028 url(/assets/img/banner.jpg) right center no-repeat;
+  background: #2a2028;
   background-size: cover;
 }
 
@@ -28919,17 +28919,17 @@ a:hover {
 }
 
 #services .app i {
-  background: url(/assets/img/icon-app.png) center no-repeat;
+  background: url(/img/icon-app.png) center no-repeat;
   background-size: contain;
 }
 
 #services .website i {
-  background: url(/assets/img/icon-website.png) center no-repeat;
+  background: url(/img/icon-website.png) center no-repeat;
   background-size: contain;
 }
 
 #services .server i {
-  background: url(/assets/img/icon-server.png) center no-repeat;
+  background: url(/img/icon-server.png) center no-repeat;
   background-size: contain;
 }
 
@@ -29198,7 +29198,7 @@ a:hover {
   width: 30%;
   height: 30%;
   border-radius: 50%;
-  background: url(/assets/img/logo-ljf.jpg) center no-repeat;
+  background: url(/img/logo-ljf.jpg) center no-repeat;
   background-size: contain;
 }
 
@@ -29209,7 +29209,7 @@ a:hover {
   width: 30%;
   height: 30%;
   border-radius: 50%;
-  background: url(/assets/img/logo-githubdaily.png) center no-repeat;
+  background: url(/img/logo-githubdaily.png) center no-repeat;
   background-size: contain;
 }
 
